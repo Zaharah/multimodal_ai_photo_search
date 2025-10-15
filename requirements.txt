@@ -1,0 +1,11 @@
+# requirements.txt
+
+transformers
+torch
+Pillow
+accelerate
+faiss-cpu
+numpy
+gradio
+timm
+einops
