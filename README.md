@@ -1,1 +1,0 @@
-# multimodal_ai_photo_search
