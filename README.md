@@ -2,7 +2,7 @@
 
 This project allows you to build and run your own personal photo search engine. You can search your entire photo library using either an example image (image-to-image search) or a natural language description (text-to-image search).
 
-This is the code for the YouTube video: [Link to your video when it's live]
+This is the code for the YouTube video: https://youtu.be/sr-lgOLKYAM
 
 ## Features
 
@@ -33,7 +33,7 @@ git clone [your-repo-link]
 cd multimodal-photo-search
 ```
 
-### Step 2: Set Up a Virtual Environment (Recommended)
+### Step 2: Set Up a Virtual Environment (optional but recommended)
 
 ```bash
 python -m venv venv
@@ -82,3 +82,4 @@ python app.py
 ```
 
 Open the URL printed in your terminal (usually `http://127.0.0.1:7860`) in your web browser to start searching!
+
