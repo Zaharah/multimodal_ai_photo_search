@@ -29,7 +29,7 @@ This is the code for the YouTube video: https://youtu.be/sr-lgOLKYAM
 ### Step 1: Clone the Repository
 
 ```bash
-git clone [your-repo-link]
+git clone https://github.com/Zaharah/multimodal_ai_photo_search
 cd multimodal-photo-search
 ```
 
@@ -82,4 +82,5 @@ python app.py
 ```
 
 Open the URL printed in your terminal (usually `http://127.0.0.1:7860`) in your web browser to start searching!
+
 
